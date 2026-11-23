@@ -1,0 +1,20 @@
+
+{
+  "expo": {
+    "name": "GPU HUNTER",
+    "slug": "gpu-hunter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.gpuhunter.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#101827",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    }
+  }
+}

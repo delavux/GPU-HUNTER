@@ -1,0 +1,541 @@
+{
+  "name": "Histórico de preço — RX 7600 XT no varejo brasileiro",
+  "description": "Série diária do menor preço à vista (PIX) de placas de vídeo com chip RX 7600 XT nas lojas brasileiras acompanhadas pelo RadarGPU.",
+  "source": "https://radargpu.com.br/gpu/rx-7600-xt/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "RadarGPU — https://radargpu.com.br",
+  "generated_at": "2026-11-22T19:58:52.975Z",
+  "chip": {
+    "slug": "rx-7600-xt",
+    "model": "RX 7600 XT",
+    "vendor": "amd",
+    "family": "RX",
+    "vram_gb": 16,
+    "launch_date": "2024-01-24"
+  },
+  "unit": {
+    "currency": "BRL",
+    "price_type": "cash",
+    "note": "Preço à vista (PIX). O parcelado costuma ser maior e não entra nesta série."
+  },
+  "coverage": {
+    "start": "2026-09-22",
+    "end": "2026-11-22",
+    "days": 62
+  },
+  "stats": {
+    "min": 2789.1,
+    "min_at": "2026-11-17",
+    "max": 3300,
+    "max_at": "2026-09-22",
+    "avg": 3144.57,
+    "last": 2789.1,
+    "last_at": "2026-11-22",
+    "above_min_pct": 0
+  },
+  "fields": {
+    "day": "data da observação (ISO 8601)",
+    "min": "menor preço à vista entre as ofertas daquele dia",
+    "avg": "média dos preços à vista daquele dia",
+    "n_offers": "quantas ofertas entraram no cálculo",
+    "store": "loja da oferta que fez o menor preço do dia (null quando não dá para afirmar)"
+  },
+  "series": [
+    {
+      "day": "2026-09-22",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-23",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-24",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-25",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-26",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-27",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-28",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-29",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-30",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-01",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-02",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-03",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-04",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-05",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-06",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-07",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-08",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-09",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-10",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-11",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-12",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-13",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-14",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-15",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-16",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-17",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-18",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-19",
+      "min": 3300,
+      "avg": 3300,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-20",
+      "min": 2961.96,
+      "avg": 2961.96,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-21",
+      "min": 2961.96,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-22",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-23",
+      "min": 3099,
+      "avg": 3149.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-24",
+      "min": 3149.1,
+      "avg": 3149.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-25",
+      "min": 3149.1,
+      "avg": 3149.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-26",
+      "min": 3149.1,
+      "avg": 3149.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-27",
+      "min": 3149.1,
+      "avg": 3149.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-28",
+      "min": 3053.57,
+      "avg": 3053.57,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-29",
+      "min": 3001.64,
+      "avg": 3001.64,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-30",
+      "min": 3001.64,
+      "avg": 3053.57,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-10-31",
+      "min": 2954,
+      "avg": 2954,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-01",
+      "min": 2954,
+      "avg": 2954,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-02",
+      "min": 2954,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-03",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-04",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-05",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-06",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-07",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-08",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-09",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-10",
+      "min": 3001.64,
+      "avg": 3001.64,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-11",
+      "min": 3001.64,
+      "avg": 3001.64,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-12",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-13",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-14",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-15",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-16",
+      "min": 3099,
+      "avg": 3099,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-17",
+      "min": 2789.1,
+      "avg": 2789.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-18",
+      "min": 2789.1,
+      "avg": 2789.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-19",
+      "min": 2789.1,
+      "avg": 2789.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-20",
+      "min": 2789.1,
+      "avg": 2789.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-21",
+      "min": 2789.1,
+      "avg": 2789.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-11-22",
+      "min": 2789.1,
+      "avg": 2789.1,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    }
+  ]
+}

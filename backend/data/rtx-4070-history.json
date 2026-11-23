@@ -1,0 +1,101 @@
+{
+  "name": "Histórico de preço — RTX 4070 no varejo brasileiro",
+  "description": "Série diária do menor preço à vista (PIX) de placas de vídeo com chip RTX 4070 nas lojas brasileiras acompanhadas pelo RadarGPU.",
+  "source": "https://radargpu.com.br/gpu/rtx-4070/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "RadarGPU — https://radargpu.com.br",
+  "generated_at": "2026-11-22T19:58:52.935Z",
+  "chip": {
+    "slug": "rtx-4070",
+    "model": "RTX 4070",
+    "vendor": "nvidia",
+    "family": "RTX",
+    "vram_gb": 12,
+    "launch_date": "2023-04-13"
+  },
+  "unit": {
+    "currency": "BRL",
+    "price_type": "cash",
+    "note": "Preço à vista (PIX). O parcelado costuma ser maior e não entra nesta série."
+  },
+  "coverage": {
+    "start": "2026-09-10",
+    "end": "2026-09-16",
+    "days": 7
+  },
+  "stats": {
+    "min": 4999,
+    "min_at": "2026-09-14",
+    "max": 6414.58,
+    "max_at": "2026-09-10",
+    "avg": 5807.9,
+    "last": 4999,
+    "last_at": "2026-09-16",
+    "above_min_pct": 0
+  },
+  "fields": {
+    "day": "data da observação (ISO 8601)",
+    "min": "menor preço à vista entre as ofertas daquele dia",
+    "avg": "média dos preços à vista daquele dia",
+    "n_offers": "quantas ofertas entraram no cálculo",
+    "store": "loja da oferta que fez o menor preço do dia (null quando não dá para afirmar)"
+  },
+  "series": [
+    {
+      "day": "2026-09-10",
+      "min": 6414.58,
+      "avg": 6414.58,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-11",
+      "min": 6414.58,
+      "avg": 6414.58,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-12",
+      "min": 6414.58,
+      "avg": 6414.58,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-13",
+      "min": 6414.58,
+      "avg": 6414.58,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-14",
+      "min": 4999,
+      "avg": 4999,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-15",
+      "min": 4999,
+      "avg": 4999,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    },
+    {
+      "day": "2026-09-16",
+      "min": 4999,
+      "avg": 4999,
+      "n_offers": 1,
+      "store": "KaBuM!",
+      "store_slug": "kabum"
+    }
+  ]
+}
